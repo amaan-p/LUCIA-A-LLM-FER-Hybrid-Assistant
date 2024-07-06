@@ -45,6 +45,3 @@ Contributions to LUCIA are welcome! If you'd like to contribute, please fork the
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
----
-
-Adjust the sections and details as per your specific implementation and project requirements. This README provides a structured overview of LUCIA, emphasizing its innovative integration of LLMs and FER for emotional intelligence in AI assistants.
